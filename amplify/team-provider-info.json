@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-eros-dev-c4de3-authRole",
+      "UnauthRoleArn": "arn:aws:iam::339712739240:role/amplify-eros-dev-c4de3-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::339712739240:role/amplify-eros-dev-c4de3-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-eros-dev-c4de3-deployment",
+      "UnauthRoleName": "amplify-eros-dev-c4de3-unauthRole",
+      "StackName": "amplify-eros-dev-c4de3",
+      "StackId": "arn:aws:cloudformation:us-east-1:339712739240:stack/amplify-eros-dev-c4de3/26c66280-4ae0-11ef-a398-1226ccf1d11b",
+      "AmplifyAppId": "d35pcxu1zite10"
+    },
+    "categories": {
+      "auth": {
+        "eros1257f70d": {}
+      },
+      "api": {
+        "eros": {}
+      }
+    }
+  }
+}
